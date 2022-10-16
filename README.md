@@ -10,7 +10,7 @@ const guts = {
     technologies: {
         backEnd: [Lua 5.3],
     },
-    editors: [VS Code, PyCharm],
+    editors: [VS Code],
     learning: [HTML, CSS, JavaScript],
     discord: AllOn#6140
 };
